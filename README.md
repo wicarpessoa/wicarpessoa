@@ -2,7 +2,6 @@
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning React.js, React native, css, javascript, node.js and html.
 - 💞️ I’m looking to collaborate on projects that demonstrate the greatest capacity for social transformation and global impact.
-- 📫 How to reach me wicarpp@gmail.com
 
 <div align="space-between">
   <a href="https://github.com/wicarpessoa">
@@ -16,8 +15,10 @@
   <img align="center" alt="Wicar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wicar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<div margin-top="12px"> 
+  
+##
+  
+<div > 
 
   <a href="https://instagram.com/wicarpessoa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
